@@ -12,3 +12,8 @@ In the process, you will also learn to use Python (AI), Angular (GUI), Mongo (St
 
 ## Start here
 https://github.com/ring-face/ringface
+
+## Details of the solution
+* [Ring Device Access](https://www.csabameszaros.com/2022/12/02/accessing-the-ring-device/)
+* [The AI part](https://www.csabameszaros.com/2022/12/11/ringface-face-recognition/)
+* [Boilerplate](https://www.csabameszaros.com/2022/12/18/ringface-putting-it-all-together/)
